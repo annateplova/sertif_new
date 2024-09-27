@@ -1,0 +1,57 @@
+@site_jeux_certif_HostAddress = http://localhost:5114
+
+
+GET {{site_jeux_certif_HostAddress}}/api/utilisateur
+
+###
+
+POST {{site_jeux_certif_HostAddress}}/api/utilisateur
+Content-Type: application/json
+
+{
+  "id_vCode": 0,
+  "uNom": "string",
+  "uPrenom": "string",
+  "email": "sathieughfghkfgh@hotmail.com",
+  "uIdentifiant": "string",
+  "uMotDePasse": "string",
+  "adresse1": "string"
+}
+###
+
+GET {{site_jeux_certif_HostAddress}}/api/utilisateur/1
+
+###
+
+DELETE {{site_jeux_certif_HostAddress}}/api/utilisateur/7
+
+###
+
+PUT {{site_jeux_certif_HostAddress}}/api/utilisateur/6
+Content-Type: application/json
+
+{
+  "id_Utilisateur": 6,
+  "id_vCode": 2,
+  "uNom": "",
+  "uPrenom": "Mathieu",
+  "email": "sathieumoleri@hotmail.com",
+  "uIdentifiant": "UnautreIdentifiant",
+  "uMotDePasse": "UnautreMotDePasse",
+  "adresse1": "UneAdresse"
+}
+
+###
+
+POST {{site_jeux_certif_HostAddress}}/api/utilisateur
+Content-Type: application/json
+
+{
+  //Utilisateur
+}
+
+###
+
+GET {{site_jeux_certif_HostAddress}}/api/utilisateur
+
+###

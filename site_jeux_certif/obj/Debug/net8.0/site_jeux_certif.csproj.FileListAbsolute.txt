@@ -1,0 +1,7 @@
+C:\Users\Anna\source\repos\site_jeux_certif\obj\Debug\net8.0\site_jeux_certif.csproj.AssemblyReference.cache
+C:\Users\Anna\source\repos\site_jeux_certif\obj\Debug\net8.0\site_jeux_certif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\source\repos\site_jeux_certif\obj\Debug\net8.0\site_jeux_certif.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\site_jeux_certif\obj\Debug\net8.0\site_jeux_certif.AssemblyInfo.cs
+C:\Users\Anna\source\repos\site_jeux_certif\obj\Debug\net8.0\site_jeux_certif.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\site_jeux_certif\obj\Debug\net8.0\site_jeux_certif.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anna\source\repos\site_jeux_certif\obj\Debug\net8.0\site_jeux_certif.MvcApplicationPartsAssemblyInfo.cache
